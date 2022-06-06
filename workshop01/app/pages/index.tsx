@@ -31,7 +31,7 @@ const Home: NextPage<HomeProps> = ({ data }) => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://github.com/suwarnoong/cfdsa-pre-course" className={styles.card}>
+          <a href="https://github.com/suwarnoong/cfdsa-pre-course/tree/master/workshop01/app" className={styles.card}>
             <h2>Repository &rarr;</h2>
             <p>Click here to redirect to github repository.</p>
           </a>
